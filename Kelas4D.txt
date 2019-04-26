@@ -3,3 +3,5 @@
 - Komputasi Numerik
 - Web Programming 1
 - Jaringan Komputer2
+- Pemrogaman Komputer 2
+- Pemrograman Client Server 2
