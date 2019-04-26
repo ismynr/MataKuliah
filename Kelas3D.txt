@@ -4,3 +4,4 @@
 - Bahasa Inggris 3
 - Matematika Numerik
 - Object Oriented Design
+- Sistem Operasi
