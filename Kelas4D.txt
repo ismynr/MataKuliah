@@ -1,0 +1,5 @@
+- Sistem Basis Data 2
+- Object Oriented Programming 1
+- Komputasi Numerik
+- Web Programming 1
+- Jaringan Komputer2
