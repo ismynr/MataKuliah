@@ -6,4 +6,4 @@
 - Object Oriented Design
 - Sistem Operasi
 - Desain Grafis & Multimedia
-- Sistem Digital
+- Pemrograman Client Server 1
