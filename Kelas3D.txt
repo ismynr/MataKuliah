@@ -1,0 +1,6 @@
+- Pemrograman Komputer 1
+- Jaringan Komputer 1
+- Sistem Basis Data 1
+- Bahasa Inggris 3
+- Matematika Numerik
+- Object Oriented Design
